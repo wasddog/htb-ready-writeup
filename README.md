@@ -1,4 +1,4 @@
-# HTB Ready Writeups
+# HTB Ready Writeup
 IP = 10.10.10.220
 
 ## Enumeration
